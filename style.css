@@ -84,6 +84,7 @@ button{
 
 .catStats{
 	display: contents;
+	font-family: 'Exo 2', sans-serif;
 }
 .space-between-cat{
 	justify-content: center;
